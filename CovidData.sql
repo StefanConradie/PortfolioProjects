@@ -1,3 +1,6 @@
+--Covid-19 SQL Exploration
+--Skills that were used where : Joins, Inserts, Selects, CTE's, Temp Tables, Creating tables and views and Converting Data Types
+
 Select * 
 From PortfolioProject..CovidDeaths
 where continent is not null
