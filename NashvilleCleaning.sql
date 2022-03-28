@@ -1,5 +1,5 @@
 --Data Cleaning
--- Link to the data set used : https://github.com/StefanConradie/PortfolioFiles/blob/57f57e3a1686079ddece51a03993ffa02e0ea5c1/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+
 
 
 Use PortfolioProject
