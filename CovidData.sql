@@ -1,5 +1,6 @@
 --Covid-19 SQL Exploration
 --Skills that were used where : Joins, Inserts, Selects, CTE's, Temp Tables, Creating tables and views and Converting Data Types
+-- Link to data set used : https://ourworldindata.org/covid-deaths
 
 Select * 
 From PortfolioProject..CovidDeaths
